@@ -1,0 +1,2 @@
+class MachineManufacturer < ApplicationRecord
+end
